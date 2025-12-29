@@ -154,6 +154,3 @@ Ensure you logged in and the token exists in localStorage.
 Also confirm `VITE_SOCKET_URL` matches backend host/port.
 
 ---
-
-## License
-MIT
