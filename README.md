@@ -7,9 +7,6 @@ A production-style, scalable chat app:
 - **Auth/Security:** JWT login, Socket handshake verification, basic rate-limits, Helmet, CORS
 - **Frontend:** React (Vite) + socket.io-client
 - **Deploy/Run:** Docker Compose (recommended) or local dev
-
-> This repo is intentionally “complete but minimal” so you can extend it (typing indicators, read receipts, DMs, file uploads, moderation, etc.).
-
 ---
 
 ## 1) Quick Start (Docker Compose) ✅
